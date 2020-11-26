@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=231f3e&height=300&section=header&text=JJong&fontColor=eeeeee&fontSize=30&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=231f3e&height=200&section=header&text=JJong&fontColor=eeeeee&fontSize=30&fontAlign=80&fontAlignY=30)
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=231f3e&height=300&section=footer&text=GGit&fontSize=30&fontAlign=30)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=231f3e&height=200&section=footer&text=GGit&fontColor=eeeeee&fontSize=30&fontAlign=20&fontAlignY=70)
